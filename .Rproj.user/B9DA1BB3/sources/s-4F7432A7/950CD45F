@@ -3,7 +3,7 @@
     "path": "~/OneDrive/03 Resources/Data/Liberia-maps/Liberia.Rmd",
     "project_path": "Liberia.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2462237162",
     "contents": "",
     "dirty": false,
     "created": 1622991504818.0,
@@ -14,15 +14,15 @@
         "chunk_output_type": "inline",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,3",
+        "cursorPosition": "15,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1622993237,
+    "lastKnownWriteTime": 1622993810,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1622993237,
+    "last_content_update": 1622993832093,
     "read_only": false,
     "read_only_alternatives": []
 }
