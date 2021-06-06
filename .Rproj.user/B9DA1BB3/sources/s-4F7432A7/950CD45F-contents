@@ -1,0 +1,16 @@
+---
+title: "Liberia maps"
+output: rmarkdown::github_document
+---
+
+```{r data-prep, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE, eval=TRUE}
+library(rgdal)
+
+adm_all <- "~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbndl_admALL_ocha_itos_20191104.shp"
+adm0 <- "~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm0_ocha_20191104.shp"
+adm1 <- "~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm1_ocha_20191104.shp"
+adm2 <- "~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm2_ocha_20191104.shp"
+
+lbr_shp <- readOGR(adm1)
+plot(lbr_shp)
+```
