@@ -1,6 +1,0 @@
-"0","library(rgdal)"
-"0",""
-"0","adm_all <- ""~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbndl_admALL_ocha_itos_20191104.shp"""
-"0","adm0 <- ""~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm0_ocha_20191104.shp"""
-"0","adm1 <- ""~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm1_ocha_20191104.shp"""
-"0","adm2 <- ""~/OneDrive/03 Resources/Data/Liberia-maps/lbr-administrative-divisions-shapefiles/lbr_adm_ocha_20191104_SHP/lbr_admbnda_adm2_ocha_20191104.shp"""

@@ -1,2 +1,0 @@
-"0","adm_all_shp <- readOGR(adm_all, verbose = FALSE)"
-"0","plot(adm_all_shp)"
